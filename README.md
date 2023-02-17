@@ -1,6 +1,7 @@
 # Horario-do-dia
 
-Site criado pelo Visual Studio Code, com a intenção de informar o horário e modificar a imagem de acordo com o periodo/horário do dia.
+Site criado pelo Visual Studio Code, com a intenção de informar o horário e modificar a imagem de acordo com o periodo/horário do momento.
+Direitos autorais: Curso em Video
 
 ![image](https://user-images.githubusercontent.com/91923187/219524502-0bfc3805-12a8-44a6-a835-58f99bb81ab6.png)
 
